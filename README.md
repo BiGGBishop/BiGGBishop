@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Ogunye
 
-### Senior Full-Stack Engineer | Systems Architect | Fintech & SaaS Specialist
+### Senior Full-Stack Engineer | Systems Architect | SaaS Specialist
 
 I design and build **high-performance, scalable systems** that power real-world businesses — from fintech platforms handling thousands of transactions to multi-tenant SaaS products with strict data isolation and real-time capabilities.
 
