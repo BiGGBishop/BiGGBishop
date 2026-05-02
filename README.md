@@ -2,7 +2,7 @@
 
 ### Senior Full-Stack Engineer | Systems Architect | SaaS Specialist
 
-I design and build **high-performance, scalable systems** that power real-world businesses — from fintech platforms handling thousands of transactions to multi-tenant SaaS products with strict data isolation and real-time capabilities.
+I design and build **high-performance, scalable systems** that power real-world businesses from fintech platforms handling thousands of transactions to multi-tenant SaaS products with strict data isolation and real-time capabilities.
 
 With 5+ years of experience, I specialize in **turning complex ideas into reliable, production-grade software**.
 
@@ -20,7 +20,7 @@ With 5+ years of experience, I specialize in **turning complex ideas into reliab
 
 ## 🧠 Engineering Philosophy
 
-I don't just write code — I build **systems that last**.
+I don't just write code, I build **systems that last**.
 
 - Clean Architecture (SOLID, DRY, KISS)
 - Performance-first mindset
@@ -66,7 +66,7 @@ I don't just write code — I build **systems that last**.
 
 ## 💼 Experience Highlights
 
-### 🏆 Lead Full-Stack Engineer — Mahdumo
+### 🏆 Lead Full-Stack Engineer - Mahdumo
 - Built and scaled **5+ SaaS platforms**
 - Served **5,000+ users** with **99.9% uptime**
 - Designed **multi-tenant architectures with RBAC**
@@ -75,7 +75,7 @@ I don't just write code — I build **systems that last**.
 
 ---
 
-### 🌍 Full-Stack Engineer — Senda App
+### 🌍 Full-Stack Engineer - Senda App
 A cross-border logistics platform connecting Nigeria to global markets.
 
 - Built **order processing & shipment tracking systems**
@@ -85,7 +85,7 @@ A cross-border logistics platform connecting Nigeria to global markets.
 
 ---
 
-### ⚡ Full-Stack Developer — Monugold
+### ⚡ Full-Stack Developer - Monugold
 - Built an **electricity management & billing system**
 - Designed **wallet-based payment infrastructure**
 - Automated billing processes (**80% reduction in manual work**)
@@ -142,7 +142,7 @@ I’m open to:
 
 ## ⚡ Fun Fact
 
-I enjoy building systems that **handle scale before they actually need to** — because growth should never break your product.
+I enjoy building systems that **handle scale before they actually need to**, because growth should never break your product.
 
 ---
 
